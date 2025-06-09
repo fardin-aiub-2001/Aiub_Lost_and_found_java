@@ -1,1 +1,0 @@
-student[] students = new student[50];
